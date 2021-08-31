@@ -6,7 +6,7 @@ I'm **Renzo** (he/they) and I'm a [CS + Music](https://music.illinois.edu/bachel
 
 ### I'm currently working on
 
-- [Lineage](https://lineage.vercel.app/), a visualizer for family groups for the Philippine Student Association (PSA) UIUC
+- [Lineage](https://lineage.vercel.app/), a visualizer for family groups for the [Philippine Student Association (PSA) UIUC](http://psauiuc.org/)
 - Organizing and onboarding volunteers for PSA UIUC's annual conference, [Filipino Americans Coming Together (FACT)](https://fact.psauiuc.org/)
 - Developing for [@prairielearn](https://github.com/prairielearn)
 

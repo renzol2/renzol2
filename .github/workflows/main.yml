@@ -14,3 +14,11 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          # ... other options
+          plugin_music: yes
+          plugin_music_limit: 4                   # Limit to 4 entries
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/37i9dQZF1EpydEP0aT1C8i?utm_source=generator # Use extracted playlist link
+          # plugin_music_provider: (will be guessed through plugin_music_playlist)
+          # plugin_music_mode: (will be set to "playlist" when plugin_music_playlist is provided)

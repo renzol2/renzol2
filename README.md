@@ -4,7 +4,7 @@
 
 i'm **renzo** (he/they) and i'm a [cs + music](https://music.illinois.edu/bachelor-science-computer-science-music) student [@illinois](https://github.com/illinois)
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+![Metrics](https://github.com/renzol2/renzol2/blob/main/github-metrics.svg)
 
 ### currently working on
 

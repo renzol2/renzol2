@@ -1,26 +1,28 @@
 
 
-# Hi! ✌
+# hi! ✌
 
-I'm **Renzo** (he/they) and I'm a [CS + Music](https://music.illinois.edu/bachelor-science-computer-science-music) Student [@illinois](https://github.com/illinois)! I'm currently looking for a Summer 2022 SWE internship 😊
+i'm **renzo** (he/they) and i'm a [cs + music](https://music.illinois.edu/bachelor-science-computer-science-music) student [@illinois](https://github.com/illinois)
 
-### I'm currently working on
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+
+### currently working on
 
 - [Lineage](https://lineage.vercel.app/), a visualizer for family groups for the [Philippine Student Association (PSA) UIUC](http://psauiuc.org/)
-- Organizing and onboarding volunteers for PSA UIUC's annual conference, [Filipino Americans Coming Together (FACT)](https://fact.psauiuc.org/)
-- Developing for [@prairielearn](https://github.com/prairielearn)
+- developing for [@prairielearn](https://github.com/prairielearn)
+- studying and preparing for finals in my [2nd brain](https://github.com/renzol2/brain)
 
-### I'm interested in
+### interested in
 
 - music & audio production (currently using [Reason](https://www.reasonstudios.com/en/reason) and [Ableton](https://www.ableton.com/en/))
 - music in general
-- web development, particularly frontend/React
-- Nintendo-related things 🎮
+- web development
 
-### Check out my
+### check out my
+
 - [LinkedIn](https://www.linkedin.com/in/renzo-marc-ledesma/)
 - [Portfolio website (WIP)](https://renzol2.github.io/)
 
-Ask me for my resume!
+ask me for my resume!
 
-Have a great day :)
+have a great day :)
